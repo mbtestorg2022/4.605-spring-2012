@@ -15,12 +15,57 @@ Select one building\*\* and write a 5–7 page double spaced paper developing ON
 
 _\*\* MIT students in the class were given a list of buildings to choose from. This list is not provided for OCW users._
 
-| THEMES | DETAILS |
-| --- | --- |
-| 1\. Context | By context, we mean siting in the landscape or city. In this paper you should analyze how the building accommodates its particular context, which may range from how it is sited and oriented to the surrounding city. How do these design choices affect the internal planning of the building? |
-| 2\. Plan and Section | In this paper you should analyze the plan and section of the building. You can provide your own sketches. If you find published sketches or drawings that it OK, but you must acknowledge that. How does the plan 'work?' What are the principal elements. The same holds for the section of the building. |
-| 3\. Materials and Light | In this paper you will focus on the material choices of the architect. How are the materials used and why? What are their aesthetic qualities? How are details designed? |
-| 4\. Use | In this paper you can study how the building operates. Are there public and private zones, noisy and quiet zones etc? You can interview people about the building if you want or observe how they move through the building? Is the layout of the building successful in how it is used? 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+THEMES
+{{< thclose >}}
+{{< thopen >}}
+DETAILS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Context
+{{< tdclose >}}
+{{< tdopen >}}
+By context, we mean siting in the landscape or city. In this paper you should analyze how the building accommodates its particular context, which may range from how it is sited and oriented to the surrounding city. How do these design choices affect the internal planning of the building?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Plan and Section
+{{< tdclose >}}
+{{< tdopen >}}
+In this paper you should analyze the plan and section of the building. You can provide your own sketches. If you find published sketches or drawings that it OK, but you must acknowledge that. How does the plan 'work?' What are the principal elements. The same holds for the section of the building.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Materials and Light
+{{< tdclose >}}
+{{< tdopen >}}
+In this paper you will focus on the material choices of the architect. How are the materials used and why? What are their aesthetic qualities? How are details designed?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Use
+{{< tdclose >}}
+{{< tdopen >}}
+In this paper you can study how the building operates. Are there public and private zones, noisy and quiet zones etc? You can interview people about the building if you want or observe how they move through the building? Is the layout of the building successful in how it is used?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Notes:
 
